@@ -5,3 +5,4 @@
 *~
 dist/
 sftp-config.json
+*build.log
