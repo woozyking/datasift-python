@@ -1,4 +1,4 @@
-# DataSift Python Client Library
+## DataSift Python Client Library
 
 This is the official Python library for accessing [Datasift](http://datasift.com/). See the examples
 folder for some simple example usage.
